@@ -481,15 +481,15 @@
         }
         
         .single-box:nth-child(1) .img-area {
-            background-image: url(images/ml.jpg);
+            background-image: url('images/ml.jpg');
         }
         
         .single-box:nth-child(2) .img-area {
-            background-image: url(images/clean.jpg);
+            background-image: url('images/clean.jpg');
         }
         
         .single-box:nth-child(3) .img-area {
-            background-image: url(images/wd.jpg);
+            background-image: url('images/wd.jpg');
         }
         
         .section-headingg {
